@@ -298,8 +298,8 @@ int main(void) {
 				cout << map[i][j];
 			cout << endl;
 		}
-		cout << "0 : KB_UP\n1 : KB_DOWN\n2 : KB_LEFT\n3 : KB_RIGHT" << endl;
 		cout << "Put only the red ball into the hole with minimal movement." << endl;
+		cout << "0 : KB_UP\n1 : KB_DOWN\n2 : KB_LEFT\n3 : KB_RIGHT << endl;
 		ans2 = problem(0);
 		if(ans2 != ans)
 			if (ans2 == MAXNUM) {
