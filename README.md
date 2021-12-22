@@ -17,8 +17,10 @@ devc+ 과같은 환경에서도 돌아갑니다.
 1 : KB_DOWN
 2 : KB_LEFT
 3 : KB_RIGHT
+
 Put only the red ball into the hole with minimal movement.
 KB_code :
+
 
 
 ### 실행방법  
