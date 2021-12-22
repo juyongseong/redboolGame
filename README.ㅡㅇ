@@ -1,4 +1,3 @@
-Put only the red ball into the hole with minimal movement.
 visual studio 2017으로 만들었습니다.
 devc+ 과같은 환경에서도 돌아갑니다.
 파일을 읽어서 편의성을 높일수 있었지만 코드를 사용하는 사람의 편의성을 위해 키보드로 stdin, stdout을 사용하도록 하였습니다.
@@ -12,8 +11,18 @@ devc+ 과같은 환경에서도 돌아갑니다.
 10이하의 답을 가진 맵을 직접 추가하여 플레이할수있습니다.
 
 
-redbool.exe 실행 후 맵 붙여넣기
+### 인터페이스
+0 : KB_UP
+1 : KB_DOWN
+2 : KB_LEFT
+3 : KB_RIGHT
+Put only the red ball into the hole with minimal movement.
+KB_code :
 
+
+### 실행방법  
+redbool.exe 실행 후 맵 붙여넣기
+---
 input data : 
 5 5
 #####
